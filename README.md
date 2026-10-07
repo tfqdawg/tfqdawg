@@ -1,4 +1,4 @@
-#### **Tools.**
+#### **Language.**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-1c1b19?style=for-the-badge&logo=cplusplus&logoColor=e08060)
 ![C](https://img.shields.io/badge/C-1c1b19?style=for-the-badge&logo=c&logoColor=e08060)
