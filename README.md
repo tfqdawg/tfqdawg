@@ -1,10 +1,9 @@
+<br>
 <p align="center">
 <img src="https://ghstats.dev/api/langs?username=tfqdawg&theme=default&max_langs=12&layout=grid" alt="Top Languages" />
 </p>
 
-<br>
-
-#### **Language.**
+#### **_Language._**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-1c1b19?style=for-the-badge&logo=cplusplus&logoColor=e08060)
 ![C](https://img.shields.io/badge/C-1c1b19?style=for-the-badge&logo=c&logoColor=e08060)
@@ -14,10 +13,10 @@
 ![Bash](https://img.shields.io/badge/Bash-1c1b19?style=for-the-badge&logo=gnubash&logoColor=e08060)
 <br>
 
-#### **Database.**
+#### **_Database._**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1b19?style=for-the-badge&logo=postgresql&logoColor=e08060)
 ![SQLite](https://img.shields.io/badge/SQLite-1c1b19?style=for-the-badge&logo=sqlite&logoColor=e08060)
 <br>
 
-#### **Ongoing Project.**
+#### **_Ongoing Project._**
