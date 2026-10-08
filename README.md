@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ghstats.dev/api/langs?username=tfqdawg&theme=nord&max_langs=12&layout=grid" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=tfqdawg&theme=default&max_langs=12&layout=grid" alt="Top Languages" />
 </p>
 
 <br>
