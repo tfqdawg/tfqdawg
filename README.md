@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://ghstats.dev/api/langs?username=tfqdawg&theme=nord&max_langs=12&layout=grid" alt="Top Languages" />
+</p>
+
+<br>
+
 #### **Language.**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-1c1b19?style=for-the-badge&logo=cplusplus&logoColor=e08060)
@@ -15,5 +21,3 @@
 <br>
 
 #### **Ongoing Project.**
-
-![1](https://img.shields.io/badge/In_Progress-Migrate_NixOS_Hyprland_To_Sway-1c1b19?style=for-the-badge)
