@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://ghstats.dev/api/langs?username=tfqdawg&theme=default&max_langs=12&layout=grid" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=tfqdawg&theme=gruvbox&max_langs=12" alt="Top Languages" />
 </p>
 
 #### **_Language._**
