@@ -5,3 +5,4 @@
 ## Currently Learning
 
 - Systems Programming
+- GNU Scientific Library (GSL)
