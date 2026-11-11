@@ -20,3 +20,4 @@
 
 - Systems Programming
 - GNU Scientific Library (GSL)
+- Rust
