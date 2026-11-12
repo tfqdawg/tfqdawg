@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=tfqdawg&theme=ayu&days=15&width=600&height=150&border_radius=12&line_color=e08060&fill_color=e08060&title=Larp." alt="Contribution Sparkline" />
+  <img src="https://ghstats.dev/api/sparkline?username=tfqdawg&days=30&width=600&height=150&border_radius=12&line_color=e08060&fill_color=e08060&title=Larpmeter" alt="Contribution Sparkline" />
 </p>
 
 ## Tech Stack
