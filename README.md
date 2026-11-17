@@ -2,8 +2,7 @@
   <img src="https://ghstats.dev/api/sparkline?username=tfqdawg&days=30&width=600&height=150&border_radius=12&line_color=e08060&fill_color=e08060&title=Larpmeter" alt="Contribution Sparkline" />
 </p>
 
-### Tech Stack.
----
+## Tech Stack.
 #### Languages.
 ![C](https://img.shields.io/badge/C-00599D?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599D?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
@@ -17,6 +16,5 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=80CAEF)
 <br>
 
-### Currently Learning...
----
+## Currently Learning...
 - [ ] Nvidia CUDA
