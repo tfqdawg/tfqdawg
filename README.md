@@ -7,7 +7,7 @@
 ![C](https://img.shields.io/badge/C-004481?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-004481?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-4786B8?style=for-the-badge&logo=python&logoColor=FFE671)
-![Bash](https://img.shields.io/badge/Bash-3E474A?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/Bash-3E474A?style=for-the-badge&logo=gnubash&logoColor=45AA55)
 
 #### Technologies
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FDCB00)
