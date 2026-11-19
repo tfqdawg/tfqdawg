@@ -10,7 +10,7 @@
 ![Bash](https://img.shields.io/badge/Bash-3E474A?style=for-the-badge&logo=gnubash&logoColor=45AA55)
 
 #### Technologies
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FDCB00)
+![Linux](https://img.shields.io/badge/Linux-3A3A3A?style=for-the-badge&logo=linux&logoColor=FFD81C)
 ![Cuda](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=4FB830)
 ![Nix](https://img.shields.io/badge/Nix-4D6FB6?style=for-the-badge&logo=nixos&logoColor=7EB7E2)
 
