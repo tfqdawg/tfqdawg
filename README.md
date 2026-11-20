@@ -19,4 +19,4 @@
 <br>
 
 ## Currently Learning...
-- [ ] Nvidia CUDA
+- Nvidia CUDA
