@@ -20,3 +20,4 @@
 
 ## Currently Learning...
 - Nvidia CUDA
+- Machine Learning in C++ (via [mlpack](https://github.com/mlpack/mlpack))
